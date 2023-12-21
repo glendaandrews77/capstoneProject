@@ -1,0 +1,27 @@
+* {
+    font-family: 'Roboto', sans-serif; 
+} 
+h1 {
+   text-align: center;
+   color: blue;
+   text-align: center;
+ 
+
+}
+body {
+    margin:0;
+    padding:0;
+    background: #000;
+    height: 100vh;
+}
+.header-HomePageImage{
+ 
+    margin-top: auto;
+    margin-bottom: 50%;
+}   
+header nav-bar {
+    color: blue;
+    text-align: center;
+    text-size-adjust: 15%;
+    display: inline;
+}
